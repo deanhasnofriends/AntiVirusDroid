@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.0</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{26B87DA6-6F4A-481F-9C3A-E32DD1BF4680}</ProjectGuid>
+    <ProjectTypeGuids>{EFBA0AD7-5A72-4C68-AF49-83D382785DCF};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <RootNamespace>AntiVirusDroid</RootNamespace>
+    <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
+    <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
+    <AndroidResgenClass>Resource</AndroidResgenClass>
+    <AndroidApplication>True</AndroidApplication>
+    <AndroidResgenFile>Resources\Resource.designer.cs</AndroidResgenFile>
+    <AssemblyName>AntiVirusDroid</AssemblyName>
+    <TargetFrameworkVersion>v2.3</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <ConsolePause>false</ConsolePause>
+    <AndroidLinkMode>None</AndroidLinkMode>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>none</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <ConsolePause>false</ConsolePause>
+    <AndroidLinkMode>SdkOnly</AndroidLinkMode>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="Mono.Android" />
+    <Reference Include="OpenTK" />
+    <Reference Include="MonoGame.Framework" />
+    <Reference Include="Lidgren.Network" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Activity1.cs" />
+    <Compile Include="Camera.cs" />
+    <Compile Include="Enemy.cs" />
+    <Compile Include="EnemyManager.cs" />
+    <Compile Include="Game1.cs" />
+    <Compile Include="GameManager.cs" />
+    <Compile Include="GoalManager.cs" />
+    <Compile Include="Music.cs" />
+    <Compile Include="Particle.cs" />
+    <Compile Include="PathFinder.cs" />
+    <Compile Include="PathNode.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Resources\Resource.designer.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SpawnPoint.cs" />
+    <Compile Include="Sprite.cs" />
+    <Compile Include="Tilemap.cs" />
+    <Compile Include="UI.cs" />
+    <Compile Include="VirtualThumbstick.cs" />
+    <Compile Include="WeaponManager.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Content\blobdead1.xnb" />
+    <AndroidAsset Include="Assets\Content\blobdead2.xnb" />
+    <AndroidAsset Include="Assets\Content\BLOBYO.xnb" />
+    <AndroidAsset Include="Assets\Content\cannon3.xnb" />
+    <AndroidAsset Include="Assets\Content\Death.xnb" />
+    <AndroidAsset Include="Assets\Content\ene3.xnb" />
+    <AndroidAsset Include="Assets\Content\enemydeath.xnb" />
+    <AndroidAsset Include="Assets\Content\fullbar.xnb" />
+    <AndroidAsset Include="Assets\Content\gate_sheet.xnb" />
+    <AndroidAsset Include="Assets\Content\HealthBar.xnb" />
+    <AndroidAsset Include="Assets\Content\Ice.xnb" />
+    <AndroidAsset Include="Assets\Content\INVEN3.xnb" />
+    <AndroidAsset Include="Assets\Content\Main_Song.xnb" />
+    <AndroidAsset Include="Assets\Content\movie.xnb" />
+    <AndroidAsset Include="Assets\Content\Pericles14.xnb" />
+    <AndroidAsset Include="Assets\Content\shot.xnb" />
+    <AndroidAsset Include="Assets\Content\song.xnb" />
+    <AndroidAsset Include="Assets\Content\song1.xnb" />
+    <AndroidAsset Include="Assets\Content\SpriteSheet.xnb" />
+    <AndroidAsset Include="Assets\Content\tank_sheet1.xnb" />
+    <AndroidAsset Include="Assets\Content\tank_sheet2.xnb" />
+    <AndroidAsset Include="Assets\Content\tank_sprite.xnb" />
+    <AndroidAsset Include="Assets\Content\tank_turret1.xnb" />
+    <AndroidAsset Include="Assets\Content\tank-turret.xnb" />
+    <AndroidAsset Include="Assets\Content\tents.xnb" />
+    <AndroidAsset Include="Assets\Content\TitleScreen.xnb" />
+    <AndroidAsset Include="Assets\Content\turret-sheet.xnb" />
+    <AndroidAsset Include="Assets\Content\vict.xnb" />
+    <AndroidAsset Include="Assets\Content\viral_sheet.xnb" />
+    <AndroidAsset Include="Assets\Content\bar.xnb" />
+    <AndroidAsset Include="Assets\Content\basespri.xnb" />
+    <AndroidAsset Include="Assets\Content\blobdamaged.xnb" />
+    <AndroidAsset Include="Assets\Content\thumbstick.xnb" />
+    <None Include="Resources\AboutResources.txt" />
+    <None Include="Assets\AboutAssets.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\drawable\Icon.png" />
+    <AndroidResource Include="Resources\drawable\Splash.png" />
+    <AndroidResource Include="Resources\values\Styles.xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Content\blobdead2.wma" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Content\Main_Song.wma" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Content\movie.wmv" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Content\song.wma" />
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidAsset Include="Assets\Content\song1.wma" />
+  </ItemGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Novell\Novell.MonoDroid.CSharp.targets" />
+</Project>

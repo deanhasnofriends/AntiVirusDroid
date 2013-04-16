@@ -1,0 +1,15 @@
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\AntiVirusDroid.dll
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\AntiVirusDroid.pdb
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\AntiVirusDroid.dll.mdb
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\AntiVirusDroid.AntiVirusDroid.apk
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\AntiVirusDroid.AntiVirusDroid-Signed.apk
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\Lidgren.Network.dll
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\bin\Debug\MonoGame.Framework.dll
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\AntiVirusDroid.dll
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\AntiVirusDroid.pdb
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\android\bin\AntiVirusDroid.AntiVirusDroid.apk
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\res\drawable\icon.png
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\res\drawable\splash.png
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\res\values\styles.xml
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\R.cs.flag
+C:\Users\Dean\Desktop\AntiVirusDroid\AntiVirusDroid\AntiVirusDroid\obj\Debug\uploadflags.txt

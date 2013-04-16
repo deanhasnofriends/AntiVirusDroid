@@ -1,2 +1,0 @@
-C:\Users\Joeki_000\Desktop\30 - 1\HeroHunter1\HeroHunter1Content\obj\x86\Debug\AntiVirusContent.contentprojResolveAssemblyReference.cache
-C:\Users\jimmo_000\Desktop\AntiVirus\HeroHunter1\HeroHunter1Content\obj\x86\Debug\AntiVirusContent.contentprojResolveAssemblyReference.cache
