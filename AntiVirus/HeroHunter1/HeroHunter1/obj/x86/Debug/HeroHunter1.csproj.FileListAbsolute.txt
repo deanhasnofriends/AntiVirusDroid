@@ -1,0 +1,356 @@
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+G:\Work\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Healthbar.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\David\Documents\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+G:\Work\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+E:\Dowloads\Sunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+E:\Dowloads\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\fullbar++.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\Dean\Desktop\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\fullbar++.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\David\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\blu\HeroHunterSunday\HeroHunter188ani2\HeroHunter1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\David\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\deanz\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\David\Downloads\29 - 1\29 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.xnb
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.wmv
+C:\Users\Dean\Desktop\HI DEAN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\BLOBYO.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\BLOBYO.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.xnb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.wmv
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\Rjwp\Desktop\30 - 1\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\sprmov.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\BLOBYO.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.xnb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.wmv
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\Rjwp\Desktop\HeroHunter\rick\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\BLOBYO.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.wmv
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.csprojResolveAssemblyReference.cache
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\cannon3.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\SpriteSheet.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\TitleScreen.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\HealthBar.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\basespri.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\ene3.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tents.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\INVEN3.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\BLOBYO.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\cannon3.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Pericles14.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdamaged.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead1.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\enemydeath.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.xnb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\blobdead2.wma
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song.wma
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\song1.wma
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\movie.wmv
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.exe
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\HeroHunter1.pdb
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.csprojResolveAssemblyReference.cache
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.exe
+C:\Users\jimmo_000\Desktop\backup\30 - 1\HeroHunter1\HeroHunter1\obj\x86\Debug\HeroHunter1.pdb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tank_sprite.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\turret-sheet.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tank-turret.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tank_turret1.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\bar.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tank_sheet2.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\tank_sheet1.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\gate_sheet.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\viral_sheet.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Main_Song.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Main_Song.wma
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Death.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\shot.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\Ice.xnb
+C:\Users\jimmo_000\Desktop\30 - 1\HeroHunter1\HeroHunter1\bin\x86\Debug\Content\vict.xnb
